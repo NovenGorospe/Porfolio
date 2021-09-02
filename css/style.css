@@ -1,0 +1,30 @@
+.name{
+    padding-top:150px;
+}
+.row{
+    padding-top: 100px;
+    
+}
+.navbar {
+    overflow: hidden;
+  
+  position: fixed;
+  top: 0;
+  width: 100%;
+}
+img#me{
+  
+    border-style: groove;
+}
+.imgproject{
+    height: 300px;
+    width: 100%;
+}
+.imgTraining{
+    height: 250px;
+    width: 100%;
+    
+}
+a#floatright{
+    float: right;
+}
